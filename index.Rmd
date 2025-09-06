@@ -1,15 +1,20 @@
 ---
 title: "Nadhifah"
-image: "nadhifahprofimage.jpg"
+image: "profile.jpg"
+favicon: favicon.ico
 links:
-  - label: LinkedIn
+  - icon: fab fa-linkedin
     url: "https://www.linkedin.com/in/nadhifahnadhifah/"
-  - label: Instagram
-    url: "https://www.instagram.com/dhifadf/"
-  - label: GitHub
+    text: "LinkedIn"
+  - icon: fab fa-instagram
+    url: "https://www.instagram.com/dhifadhf/"
+    text: Instagram
+  - icon: fab fa-github
     url: "https://github.com/dhifadhf"
-  - label: Email
+    text: "GitHub"
+  - icon: fas fa-envelope
     url: "mailto:nadhifahmahfudi@gmail.com"
+    text: Email
 output:
   postcards::trestles
 ---
@@ -38,14 +43,16 @@ Doctor of Medicine (M.D.) | August 2017 - May 2023
 
 ## Five fun facts about me
 
-- I have a really high spice tolerance (hit me with all those chili peppers)
-- Laufey is my favorite singer and you should listen to "letter to my 13 year old self"
-- I have two cats named "Kumkum" and "Bubu"
-- My father works in a bank, so I moved frequently from one city to another as a child
-- I enjoy swimming, walking, gaming, exploring new foods, and watching series such as Mr. Robot
+- 🌶️ I have a really high spice tolerance (hit me with all those chili peppers)
+- 🎼 Laufey is my favorite singer and you should listen to "letter to my 13 year old self"
+- 🐱 I have two cats named "Kumkum" and "Bubu"
+- 🚞 My father works in a bank, so I moved frequently from one city to another as a child
+- 🎮 I enjoy swimming, walking, gaming, eating, and watching series such as Mr. Robot
 
 ## Something Cool
 
 There is an Instagram account that I really like, called [The Woke Salaryman](https://www.instagram.com/thewokesalaryman/), because it posts about day-to-day issues (financial, relationships, career, higher education) from various perspectives that feel genuinely authentic, allowing us to tackle our "adult" problems more wisely. It is everyone's first life indeed, so please take a minute to appreciate yourself.
 
-usethis::use_git()
+## Statistical Computing Class
+
+I have no prior experience in coding, nor have I ever attempted to code before. Nevertheless, I have always thought that people who can code are really cool. I am really thrilled to know that Hopkins offered the 140.776.01 – Statistical Computing class. This class was also recommended by one of the Epidemiology teaching assistants, named Kobbie. He said that this is one of his favorite classes of all time. To be honest, I was initially terrified because I'm not a tech-savvy person, but the step-by-step instructions really helped me push through. I was having a lot of fun making this, one code at a time!
