@@ -47,3 +47,5 @@ Doctor of Medicine (M.D.) | August 2017 - May 2023
 ## Something Cool
 
 There is an Instagram account that I really like, called [The Woke Salaryman](https://www.instagram.com/thewokesalaryman/), because it posts about day-to-day issues (financial, relationships, career, higher education) from various perspectives that feel genuinely authentic, allowing us to tackle our "adult" problems more wisely. It is everyone's first life indeed, so please take a minute to appreciate yourself.
+
+usethis::use_git()
