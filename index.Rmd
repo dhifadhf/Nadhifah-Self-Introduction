@@ -1,0 +1,49 @@
+---
+title: "Nadhifah"
+image: "nadhifahprofimage.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/nadhifahnadhifah/"
+  - label: Instagram
+    url: "https://www.instagram.com/dhifadf/"
+  - label: GitHub
+    url: "https://github.com/dhifadhf"
+  - label: Email
+    url: "mailto:nadhifahmahfudi@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Nadhifah is a physician currently pursuing an MPH degree at Johns Hopkins University. Prior to this, she also worked as a research assistant in the pediatric department at Cipto Mangunkusumo National Referral Hospital, Jakarta, Indonesia. My area of interest is children's and adolescents’ health. Previously, my work primarily focused on children’s nutrition, nephrology, and growth and development. At present, I am refining my skills in quantitative data analysis, data science, and health economics to gain a deeper understanding of the complex nature of children’s health. I aspire to be a global-level pediatrician while actively contributing to medical education & research.
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+
+MPH with a concentration in Child and Adolescent Health | June 2025 - May 2026 (ongoing)
+
+**Universitas Airlangga** | Jakarta, ID
+
+Doctor of Medicine (M.D.) | August 2017 - May 2023
+
+## Experience
+
+**Eka Hospital** | General Practitioner | September 2024 - June 2025
+
+**Ministry of Health, Republic of Indonesia** | General Practitioner | August 2023 - August 2024
+
+**Cipto Mangunkusumo National Referral Hospital** | Research Assistant | February 2024 - March 2025
+
+## Five fun facts about me
+
+- I have a really high spice tolerance (hit me with all those chili peppers)
+- Laufey is my favorite singer and you should listen to "letter to my 13 year old self"
+- I have two cats named "Kumkum" and "Bubu"
+- My father works in a bank, so I moved frequently from one city to another as a child
+- I enjoy swimming, walking, gaming, exploring new foods, and watching series such as Mr. Robot
+
+## Something Cool
+
+There is an Instagram account that I really like, called [The Woke Salaryman](https://www.instagram.com/thewokesalaryman/), because it posts about day-to-day issues (financial, relationships, career, higher education) from various perspectives that feel genuinely authentic, allowing us to tackle our "adult" problems more wisely. It is everyone's first life indeed, so please take a minute to appreciate yourself.
