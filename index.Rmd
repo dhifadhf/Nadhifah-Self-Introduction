@@ -3,18 +3,14 @@ title: "Nadhifah"
 image: "profile.jpg"
 favicon: favicon.ico
 links:
-  - icon: fab fa-linkedin
+  - label: '`r fontawesome::fa("linkedin", fill = "#0A66C2")` LinkedIn'
     url: "https://www.linkedin.com/in/nadhifahnadhifah/"
-    text: "LinkedIn"
-  - icon: fab fa-instagram
+  - label: '`r fontawesome::fa("instagram", fill = "#E4405F")` Instagram'
     url: "https://www.instagram.com/dhifadhf/"
-    text: Instagram
-  - icon: fab fa-github
+  - label: '`r fontawesome::fa("github", fill = "#181717")` GitHub'
     url: "https://github.com/dhifadhf"
-    text: "GitHub"
-  - icon: fas fa-envelope
+  - label: '`r fontawesome::fa("envelope", fill = "#EA4335")` Email'
     url: "mailto:nadhifahmahfudi@gmail.com"
-    text: Email
 output:
   postcards::trestles
 ---
@@ -53,6 +49,6 @@ Doctor of Medicine (M.D.) | August 2017 - May 2023
 
 There is an Instagram account that I really like, called [The Woke Salaryman](https://www.instagram.com/thewokesalaryman/), because it posts about day-to-day issues (financial, relationships, career, higher education) from various perspectives that feel genuinely authentic, allowing us to tackle our "adult" problems more wisely. It is everyone's first life indeed, so please take a minute to appreciate yourself.
 
-## Statistical Computing Class
+## Personal Expectations
 
 I have no prior experience in coding, nor have I ever attempted to code before. Nevertheless, I have always thought that people who can code are really cool. I am really thrilled to know that Hopkins offered the 140.776.01 – Statistical Computing class. This class was also recommended by one of the Epidemiology teaching assistants, named Kobbie. He said that this is one of his favorite classes of all time. To be honest, I was initially terrified because I'm not a tech-savvy person, but the step-by-step instructions really helped me push through. I was having a lot of fun making this, one code at a time!
