@@ -1,7 +1,7 @@
 ---
 title: "Nadhifah"
 image: "profile.jpg"
-favicon: favicon.ico
+favicon: newicon.ico
 links:
   - label: '`r fontawesome::fa("linkedin", fill = "#0A66C2")` LinkedIn'
     url: "https://www.linkedin.com/in/nadhifahnadhifah/"
